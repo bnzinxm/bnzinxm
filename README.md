@@ -11,7 +11,7 @@ Desenvolvedor solo com foco em criar soluções úteis para o crescimento de neg
 # 🚀 Projetos
 - [Zoomerly](#) – Aplicativo de delivery
 - [RouteSync API](#) – API de rastreamento de veículos em tempo real
-- [App de Gestão de Tarefas](#) – Organização de fluxos de trabalho
+- [NoteBox](#) - Aplicativo de bloco de notas, muito bom para o primeiro projeto mobile! rsrs
 
 ---
 
