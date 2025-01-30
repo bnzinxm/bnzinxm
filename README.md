@@ -9,9 +9,11 @@ Desenvolvedor solo com foco em criar soluções úteis para o crescimento de neg
 ---
 
 # 🚀 Projetos
-- [Zoomerly](#) – Aplicativo de delivery
-- [RouteSync API](#) – API de rastreamento de veículos em tempo real
-- [NoteBox](#) - Aplicativo de bloco de notas, muito bom para o primeiro projeto mobile! rsrs
+- [Zoomerly](#) – Aplicativo freelance de delivery de comida, com funções extremamente úteis como rastreamento de entregas. (Desenvolvimento)
+- [RouteSync API](#) – API de rastreamento de veículos em tempo real. (Vai ser usado no Zoomerly) | (Fase de testes)
+- [NoteSync](#) - Aplicativo para se inspirar, inspirar, e demonstrar a sua criatividade, criando histórias. (Desenvolvimento)
+- [KonnChat](#) - Aplicativo de conversas, com ligações de voz, e vídeo. (Projeto futuro.)
+- [CaixaFácil](#) - Sistema PDV Padrão, focando em ajudar micro-negócios que estão surgindo por aí! (Projeto futuro.)
 
 ---
 
@@ -45,9 +47,9 @@ Aqui estão algumas das minhas contribuições e atividades no GitHub!
 # 🌱 Como eu estou aprendendo e evoluindo
 Atualmente, estou estudando:
 
-- **Inteligência Artificial** – Buscando integrar IA nos meus projetos.
 - **Desenvolvimento Mobile** – Criando aplicativos móveis com Node.js e React Native.
 - **Desenvolvimento Desktop** – Criando aplicativos para desktops e laptops com Node.js & Tauri.
-- - **Desenvolvimento Web** – Criando sites com React.js e Tailwindcss.
+- **Desenvolvimento Web** – Criando sites com React.js e Tailwindcss.
+- **Desenvolvimento de API's** - Criando API's Avançadas e Úteis.
 
 Se tiver alguma dúvida, ou quiser conversar sobre qualquer um desses tópicos, não hesite em me chamar!
