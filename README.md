@@ -40,7 +40,7 @@ Desenvolvedor solo com foco em criar soluções úteis para o crescimento de neg
 # 📈 Estatísticas
 Aqui estão algumas das minhas contribuições e atividades no GitHub!
 
-![AstroDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroDev&show_icons=true&theme=radical)
+![AstroDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnzinxm&show_icons=true&theme=radical)
 
 ---
 
